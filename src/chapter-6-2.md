@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-============================================================================================================
 
 As AI-based virtual assistants become more prevalent in business operations, it's important to consider the potential ethical considerations and risks associated with their use. In this chapter, we'll explore some of the key issues related to managing ethics and bias in AI-based virtual assistants, as well as strategies for mitigating risks and ensuring compliance.
 

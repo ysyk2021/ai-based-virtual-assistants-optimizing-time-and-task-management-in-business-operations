@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-===============================================================================================================
 
 AI-based virtual assistants rely on a range of tools and technologies to perform their functions. The use of advanced technologies, such as natural language processing and machine learning, enables virtual assistants to understand and respond to user requests. In this chapter, we will discuss the tools and technologies available for AI-based virtual assistants.
 

@@ -1,5 +1,3 @@
-Automated Task Assignment and Delegation using AI
-===============================================================================================================
 
 Effective communication and collaboration are essential for the success of any business. AI-based virtual assistants have revolutionized the way teams collaborate and communicate, providing the ability to automate task assignment and delegation. In this chapter, we will discuss how AI is enhancing communication and collaboration in the workplace through automated task assignment and delegation.
 
