@@ -10,3 +10,7 @@ Throughout this book, we'll explore emerging trends in AI for business optimizat
 Overall, this book is intended to provide a comprehensive overview of AI-based virtual assistants for time and task management in business operations. We hope that it will inspire readers to consider implementing these technologies as part of their own time and task management strategies, and to stay up-to-date on the latest trends and best practices in this exciting field.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
